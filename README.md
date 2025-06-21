@@ -55,7 +55,7 @@ The tools and technologies I use to bring ideas to life:
 
 Let’s talk tech, collaborate, or explore new opportunities! Reach out via:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Engr. Abdullah Afzal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Engr. Abdullah Afzal](https://www.linkedin.com/in/engr-abdullah-afzal-96b962208/))
 
 ---
 
@@ -63,6 +63,10 @@ Let’s talk tech, collaborate, or explore new opportunities! Reach out via:
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afzalabdullah&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalabdullah&layout=compact&theme=dark)
+
+## 📅 Contribution Graph
+
+![Abdullah's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=afzalabdullah&theme=react-dark&hide_border=true)
 
 ---
 
