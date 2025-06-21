@@ -61,7 +61,7 @@ Let’s talk tech, collaborate, or explore new opportunities! Reach out via:
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afzalabdullah&show_icons=true&theme=dark)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afzalabdullah&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalabdullah&layout=compact&theme=dark)
 
 ---
